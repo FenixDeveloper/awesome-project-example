@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    /* Projects */
+    "incremental": true,
+    /* Language and Environment */
+    "target": "es2016",
+    /* Modules */
+    "module": "commonjs",
+    /* JavaScript Support */
+    "allowJs": true,
+    /* Emit */
+    "outDir": "./dist",
+    "strict": true,
+    "skipLibCheck": true
+  },
+  "include": ["src/**/*"]
+}
